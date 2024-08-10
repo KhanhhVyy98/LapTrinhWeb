@@ -1,0 +1,7 @@
+Cách import file csdl
+B1: Tiến hành tạo một cơ sở dữ liệu mới và đặt tên "hotel_db"
+B2: Import file đính kèm trong thư mục bài nộp
+
+Cách đăng nhập:
+Đối với khách hàng, có thể chạy trực tiếp từ trang index
+Đối với nhân viên, vào folder admin, chạy từ file login. Tại đây, tài khoản mặc định là "admin" với mật khẩu là "111". Sau khi đăng nhập, có thể thực hiện các thao tác như đã nêu trong báo cáo
